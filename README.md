@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Adeel Arshad
+Front-End Developer | HTML, CSS, JavaScript, React, Bootstrap, Tailwind  
+Currently working on: Improving my JavaScript and React projects  
+How to reach me: [LinkedIn](https://www.linkedin.com/in/adeel-arshad-05a36727b/)
 
-<!--
-**Adeel253786/Adeel253786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Tailwind CSS
+- React JS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# GitHub Stats
+![Adeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adeel253786&show_icons=true&theme=radical)
